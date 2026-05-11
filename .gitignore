@@ -1,0 +1,6 @@
+# Ignorar el entorno virtual
+svd_env/
+
+# Ignorar archivos temporales de Python
+__pycache__/
+*.pyc
