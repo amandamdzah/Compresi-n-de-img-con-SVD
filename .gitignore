@@ -1,5 +1,6 @@
 # Ignorar el entorno virtual
 svd_env/
+.venv/
 
 # Ignorar archivos temporales de Python
 __pycache__/
